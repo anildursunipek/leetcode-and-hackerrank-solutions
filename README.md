@@ -1,7 +1,7 @@
  # Hackerrank-solutions
  This repositories contains my hackerrank solutions
 <br>
-| Number | Difficulaty | Solution |
+| Number | Difficulty | Solution |
 | ------ | ----------- | -------- |
 | 1 | Easy | <a href="https://github.com/Dursunipek/hackerrank-solutions/blob/main/1-easy-compare_the_triplets.py">Compare The Triplets</a> |
 | 2 | Easy | <a href="https://github.com/Dursunipek/hackerrank-solutions/blob/main/2-easy-Diagonal_Difference.py">Diagonal Difference</a> |
