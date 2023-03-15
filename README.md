@@ -1,6 +1,9 @@
 This repositories contains my leetcode and hackerrank solutions.
 <br>
 ## Leetcode Solutions
+| Number | Difficulty | Solution |
+| ------ | ----------- | -------- |
+| 1 | Easy | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/leetcode/1-easy-two_sum.java">Two Sum</a> |
 
 ## Hackerrank Solutions
 
