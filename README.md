@@ -20,8 +20,8 @@ This repositories contains my leetcode and hackerrank solutions.
 | 9 | Easy | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/hackerrank/9-easy-Apple_and_Orange.py">Apple and Orange</a> |
 | 10 | Easy | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/hackerrank/10-easy-number-line-jumps.py">number Line Jumps</a> |
 | 11 | Easy | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/hackerrank/11-easy-Breaking_the_Records.py">Breaking The Records</a> |
-| 11 | Easy | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/hackerrank/12-easy-Subarray_Division.py">Subarray Division</a> |
-| 11 | Easy | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/hackerrank/13-easy-Number-Line-Jumps.py">Number Line Jumps</a> |
+| 12 | Easy | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/hackerrank/12-easy-Subarray_Division.py">Subarray Division</a> |
+| 13 | Easy | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/hackerrank/13-easy-Number-Line-Jumps.py">Number Line Jumps</a> |
 
 
 
