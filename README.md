@@ -4,6 +4,7 @@ This repositories contains my leetcode and hackerrank solutions.
 | Number | Difficulty | Solution |
 | ------ | ----------- | -------- |
 | 1 | Easy | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/leetcode/1-easy-two_sum.java">Two Sum</a> |
+| 2 | Medium | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/leetcode/2-medium-Add_Two_Numbers.java">Add Two Numbers</a> |
 
 ## Hackerrank Solutions
 
