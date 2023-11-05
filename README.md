@@ -5,6 +5,8 @@ This repositories contains my leetcode and hackerrank solutions.
 | ------ | ----------- | -------- |
 | 1 | Easy | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/leetcode/1-easy-two_sum.java">Two Sum</a> |
 | 2 | Medium | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/leetcode/2-medium-Add_Two_Numbers.java">Add Two Numbers</a> |
+| 3 | Medium | <a href="https://github.com/anildursunipek/leetcode-and-hackerrank-solutions/blob/main/leetcode/3-medium-Longest_Substring_Without_Repeating_Characters.java">Longest Substring Without Repeating Characters
+</a> |
 
 ## Hackerrank Solutions
 
