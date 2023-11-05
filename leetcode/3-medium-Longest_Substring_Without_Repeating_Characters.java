@@ -9,30 +9,32 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         Map<Character, Integer> map = new HashMap<>();
-        int j=0;
-        int i=0;
-        int max=0;
+        int i = 0;
+        int j = 0;
+        int max = 0;
         while(j < s.length()){
             // map.getOrDefault(current value, if there is no key give this value)
-            map.put(s.charAt(j), map.getOrDefault(s.charAt(j),0) + 1);
+            map.put(s.charAt(j), map.getOrDefault(s.charAt(j), 0) + 1);
             // j - i + 1 ----> Window Size
             if(map.size() == j - i + 1){
                 max = Math.max(max, j - i + 1);
                 j++;
             }
-            else if(map.size() < (j - i + 1)){
-                map.put(s.charAt(i), map.get(s.charAt(i)) - 1);
-                if(map.get(s.charAt(i)) == 0){
-                    map.remove(s.charAt(i));
+            else if(map.size() < j - i + 1){
+                while(map.size() < j - i + 1){
+                    map.put(s.charAt(i), map.get(s.charAt(i)) - 1);
+                    if(map.get(s.charAt(i)) == 0) map.remove(s.charAt(i));
+                    i++;
                 }
-                i++;
                 j++;
-            } 
+            }
         }
         return max;
     }
 }
 
+// abcabcbb
+// bcb
 // Easiest way
 
 class Solution {
